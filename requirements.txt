@@ -1,0 +1,10 @@
+scikit-learn
+matplotlib
+Jupyter
+<<<<<<< HEAD
+tensorflow
+tensorflow-directml-plugin
+tf_keras_vis
+=======
+# tensorflow-directml-plugin
+>>>>>>> 5f1f4182fc66b5ee25a84e7418f1ce110399a14b
